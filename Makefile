@@ -8,6 +8,5 @@ backstp.0:backstp.c
     gcc -c backstp.c
 tree.o:tree.c 
     gcc -c tree.c
-
 clean:
     rm main *.o
