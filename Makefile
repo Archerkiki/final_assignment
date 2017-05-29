@@ -11,4 +11,3 @@ tree.o:tree.c
 
 clean:
     rm main *.o
-
